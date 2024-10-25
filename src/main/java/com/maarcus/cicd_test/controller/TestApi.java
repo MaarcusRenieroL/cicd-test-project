@@ -8,6 +8,6 @@ public class TestApi {
   
   @GetMapping("/")
   public String hello() {
-    return "Suprise MOTHERFAKAAR!!!!";
+    return "yo!";
   }
 }
